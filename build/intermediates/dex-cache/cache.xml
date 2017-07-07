@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\bwade\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_2e7a67089c8668ef8fde76667005834082f0f1bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bwade\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2c1ecb771ba68919d25aaa48e6f5e61f05facde4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bwade\.android\build-cache\074e32ef1dfbeda6924880f4395a1aa091865f5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\pre-dexed\debug\classes_9e062c38095486eb490b7601f87cd6babc460d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bwade\.android\build-cache\e24dcff08fc4345f74c5435ff8224f7142b1a298\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\pre-dexed\debug\classes_e669b897a27fa1b290e3c722d5611f13ecb970da.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_57bd1e63affcbc6e2fb803196e29a5001fb9f0fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bwade\.android\build-cache\21373916b9cc0e5474dbbaaaa8abceb4752ac027\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\pre-dexed\debug\classes_c07139f3a20105f2ae924dc7120a93049b05f226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bwade\.android\build-cache\7a2eb24c731bd5e4b8205a8da4f4d0cd05028b3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\pre-dexed\debug\classes_487c0d5adf73e8d6164aa308fdf3b1fae316cf92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bwade\.android\build-cache\2c653e278d7edce0d352eb60862d26ef93359858\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\pre-dexed\debug\classes_b553c0f1a64566946072f1e5e81ce7f9ab87db16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bwade\.android\build-cache\415710481b1b2a86773d4b3a968dd0d3533fbd11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\pre-dexed\debug\classes_d72211a930e7ddaf58463f508400a77d5b3a7f84.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d15d27233e09d63275452066a61f6336deb0945">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9cff87ac40c083a8e59b88559244527fa88fed4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bwade\.android\build-cache\0e9eda39140eb10ee9f7b3bef786f866748a37d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\pre-dexed\debug\classes_b8c5bd7b2a2fa30d04ebd92a7de8d9114c2f4a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bwade\.android\build-cache\c3108b3d55ff172ab5e48389b04bd13031844c9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\pre-dexed\debug\classes_25d127e46515903671b7793ea275153afcbbd95c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bwade\.android\build-cache\e794f2cc18f2a2059403afdbb0a9b49d74cd22bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\pre-dexed\debug\classes_aaf027c5886fa91290124fb4e5941d18be658b25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bwade\.android\build-cache\3a0e7e454fe2b88ada93d0d87889903157440ae4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\bwade\OneDrive\Android\PaintCalculator\CarpetCalculator\app\build\intermediates\pre-dexed\debug\classes_c2dbb7660c4e09034705535a46d0c6a699129108.jar" />
+    </item>
+
+</items>

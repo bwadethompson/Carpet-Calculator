@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Carpet Calculator</string>
+    <string name="txtWidth">Enter the Room Width</string>
+    <string name="txtLength">Enter the Room Length</string>
+    <string-array name="txtCarpet">
+        <item>Classico</item>
+        <item>Houdini</item>
+        <item>Power Point</item>
+        <item>Toffee</item>
+    </string-array>
+</resources>
